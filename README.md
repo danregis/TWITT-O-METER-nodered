@@ -1,4 +1,4 @@
-# Project Title
+# Twitt-o-meter (nodered)
 
 
 This NODE-RED basic sentiment meter will measure twitter sentiments; "good" "bad" and "neutral" for example if you input 'trump' it will most likely give a bad sentiment result.
